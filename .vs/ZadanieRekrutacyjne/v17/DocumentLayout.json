@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "E:\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1867EEE4-26C4-4D22-AF06-23558C000FA1}|ZadanieRekrutacyjne.csproj|e:\\zadanierekrutacyjne\\zadanierekrutacyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1867EEE4-26C4-4D22-AF06-23558C000FA1}|ZadanieRekrutacyjne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ZadanieRekrutacyjne\\Zako\u0144czone\\zad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "zad1.cs",
+              "DocumentMoniker": "E:\\ZadanieRekrutacyjne\\Zako\u0144czone\\zad1.cs",
+              "RelativeDocumentMoniker": "..\\Zako\u0144czone\\zad1.cs",
+              "ToolTip": "E:\\ZadanieRekrutacyjne\\Zako\u0144czone\\zad1.cs",
+              "RelativeToolTip": "..\\Zako\u0144czone\\zad1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T07:17:51.402Z",
+              "WhenOpened": "2025-11-03T08:10:36.852Z",
               "EditorCaption": ""
             }
           ]
